@@ -1,0 +1,50 @@
+# Listings manager (Decap CMS). See SETUP.md.
+backend:
+  name: github
+  repo: YOUR-GITHUB-USERNAME/YOUR-REPO-NAME   # <-- change this, e.g. pearlhomes/website
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+site_url: https://YOUR-SITE.netlify.app
+display_url: https://YOUR-SITE.netlify.app
+
+collections:
+  - name: listings
+    label: Listings
+    files:
+      - name: listings
+        label: All listings
+        file: content/listings.json
+        fields:
+          - label: Listings
+            name: listings
+            widget: list
+            label_singular: Listing
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Listing title", name: title, widget: string, hint: "Must be unique. Example: Clayton Isabella 3-Bedroom Double-Wide" }
+              - { label: "Short name", name: name, widget: string, hint: "Used in the quote form dropdown. Example: Clayton Isabella" }
+              - { label: "Brand", name: brand, widget: select, options: ["Clayton Homes", "TRU", "Giles", "Kabco"] }
+              - { label: "Price (USD)", name: price, widget: number, value_type: int, min: 0 }
+              - { label: "Bedrooms", name: bd, widget: number, value_type: int, min: 0 }
+              - { label: "Bathrooms", name: ba, widget: number, value_type: int, min: 0 }
+              - { label: "Square feet", name: sqft, widget: number, value_type: int, min: 0 }
+              - { label: "Layout size", name: size, widget: string, hint: "Example: 32x60" }
+              - { label: "Show on website", name: published, widget: boolean, default: true, hint: "Turn off to hide a listing (e.g. sold) without deleting it." }
+              - { label: "Short description", name: desc, widget: text, hint: "Shown on the listing card." }
+              - { label: "Full description", name: long, widget: text, hint: "Shown on the listing page." }
+              - label: "Photos"
+                name: images
+                widget: list
+                label_singular: Photo
+                hint: "First photo is the cover image. These appear in the carousel in this order."
+                summary: "{{fields.caption}}"
+                fields:
+                  - { label: "Photo", name: src, widget: image }
+                  - { label: "Caption", name: caption, widget: string, hint: "Example: Kitchen, Living room, Master bedroom" }
+              - label: "Amenities"
+                name: amenities
+                widget: list
+                label_singular: Amenity
+                field: { label: Amenity, name: amenity, widget: string }

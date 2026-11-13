@@ -1,7 +1,7 @@
 # Listings manager (Decap CMS). See SETUP.md.
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/YOUR-REPO-NAME   # <-- change this, e.g. pearlhomes/website
+  repo: Dynamiete/pearl-homes-site   # <-- change this, e.g. pearlhomes/website
   branch: main
 
 media_folder: "images/uploads"

@@ -1,17 +1,22 @@
 {
   "listings": [
     {
-      "title": "Clayton Isabella 3-Bedroom Double-Wide Manufactured Home",
-      "name": "Clayton Isabella",
-      "brand": "Clayton Homes",
-      "price": 97000,
-      "bd": 3,
-      "ba": 2,
-      "sqft": 1580,
       "size": "28x56",
+      "bd": 3,
+      "brand": "Clayton Homes",
+      "price": 55000,
+      "name": "Clayton Isabella",
+      "sqft": 1580,
       "published": true,
       "desc": "Open-concept kitchen, split-bedroom layout, 1,580 sq ft of modern living space.",
-      "long": "A spacious 3-bed, 2-bath Clayton Isabella double-wide with an open-concept kitchen, split-bedroom layout, and 1,580 sq ft of modern living space.",
+      "amenities": [
+        "Open-concept kitchen",
+        "Split-bedroom layout",
+        "3 bedrooms, 2 bathrooms",
+        "Double-wide 28x56 layout",
+        "Delivery and setup support available"
+      ],
+      "title": "Clayton Isabella 3-Bedroom Double-Wide Manufactured Home",
       "images": [
         {
           "src": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -30,26 +35,27 @@
           "caption": "Bedroom"
         }
       ],
-      "amenities": [
-        "Open-concept kitchen",
-        "Split-bedroom layout",
-        "3 bedrooms, 2 bathrooms",
-        "Double-wide 28x56 layout",
-        "Delivery and setup support available"
-      ]
+      "long": "A spacious 3-bed, 2-bath Clayton Isabella double-wide with an open-concept kitchen, split-bedroom layout, and 1,580 sq ft of modern living space.",
+      "ba": 2
     },
     {
-      "title": "Kabco Stagecoach 4 Bed 3 Bath Manufactured Home",
-      "name": "Kabco Stagecoach",
+      "size": "32x76",
+      "bd": 4,
       "brand": "Kabco",
       "price": 120000,
-      "bd": 4,
-      "ba": 3,
+      "name": "Kabco Stagecoach",
       "sqft": 2280,
-      "size": "32x76",
       "published": true,
       "desc": "Open-concept design, large kitchen island, fireplace and bonus retreat room.",
-      "long": "Kabco Stagecoach: 4 bed, 3 bath, 2,280 sq. ft. manufactured home with a 32x76 layout.",
+      "amenities": [
+        "Open-concept design",
+        "Large kitchen island",
+        "Fireplace",
+        "Bonus retreat room",
+        "4 bedrooms, 3 bathrooms",
+        "Delivery and setup support available"
+      ],
+      "title": "Kabco Stagecoach 4 Bed 3 Bath Manufactured Home",
       "images": [
         {
           "src": "https://images.pexels.com/photos/8031890/pexels-photo-8031890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -68,27 +74,26 @@
           "caption": "Bedroom suite"
         }
       ],
-      "amenities": [
-        "Open-concept design",
-        "Large kitchen island",
-        "Fireplace",
-        "Bonus retreat room",
-        "4 bedrooms, 3 bathrooms",
-        "Delivery and setup support available"
-      ]
+      "long": "Kabco Stagecoach: 4 bed, 3 bath, 2,280 sq. ft. manufactured home with a 32x76 layout.",
+      "ba": 3
     },
     {
-      "title": "Giles The Diamond 3 Bed 2 Bath Manufactured Home",
-      "name": "Giles The Diamond",
+      "size": "32x60",
+      "bd": 3,
       "brand": "Giles",
       "price": 95000,
-      "bd": 3,
-      "ba": 2,
+      "name": "Giles The Diamond",
       "sqft": 1860,
-      "size": "32x60",
       "published": true,
       "desc": "Spacious 3-bedroom layout with modern finishes and generous living areas.",
-      "long": "Giles The Diamond: 3 bed, 2 bath, 1,860 sq. ft. manufactured home with a 32x60 layout.",
+      "amenities": [
+        "Spacious 3-bedroom layout",
+        "Modern finishes",
+        "Generous living areas",
+        "3 bedrooms, 2 bathrooms",
+        "Delivery and setup support available"
+      ],
+      "title": "Giles The Diamond 3 Bed 2 Bath Manufactured Home",
       "images": [
         {
           "src": "https://images.pexels.com/photos/8469931/pexels-photo-8469931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -107,26 +112,26 @@
           "caption": "Kitchen"
         }
       ],
-      "amenities": [
-        "Spacious 3-bedroom layout",
-        "Modern finishes",
-        "Generous living areas",
-        "3 bedrooms, 2 bathrooms",
-        "Delivery and setup support available"
-      ]
+      "long": "Giles The Diamond: 3 bed, 2 bath, 1,860 sq. ft. manufactured home with a 32x60 layout.",
+      "ba": 2
     },
     {
-      "title": "Clayton Homes Baby Boujee 3 Bed 2 Bath Manufactured Home",
-      "name": "Clayton Baby Boujee",
+      "size": "16x72",
+      "bd": 3,
       "brand": "Clayton Homes",
       "price": 62000,
-      "bd": 3,
-      "ba": 2,
+      "name": "Clayton Baby Boujee",
       "sqft": 1080,
-      "size": "16x72",
       "published": true,
       "desc": "Smart single-section living with upgraded insulation and stainless appliances.",
-      "long": "Clayton Homes Baby Boujee: 3 bed, 2 bath, 1,080 sq. ft. manufactured home with a 16x72 layout.",
+      "amenities": [
+        "Single-section 16x72 layout",
+        "Upgraded insulation",
+        "Stainless steel appliances",
+        "3 bedrooms, 2 bathrooms",
+        "Delivery and setup support available"
+      ],
+      "title": "Clayton Homes Baby Boujee 3 Bed 2 Bath Manufactured Home",
       "images": [
         {
           "src": "https://images.pexels.com/photos/7587882/pexels-photo-7587882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -145,26 +150,25 @@
           "caption": "Kitchen"
         }
       ],
-      "amenities": [
-        "Single-section 16x72 layout",
-        "Upgraded insulation",
-        "Stainless steel appliances",
-        "3 bedrooms, 2 bathrooms",
-        "Delivery and setup support available"
-      ]
+      "long": "Clayton Homes Baby Boujee: 3 bed, 2 bath, 1,080 sq. ft. manufactured home with a 16x72 layout.",
+      "ba": 2
     },
     {
-      "title": "Clayton Homes Northstar 3 Bed 2 Bath Manufactured Home",
-      "name": "Clayton Northstar",
+      "size": "16x76",
+      "bd": 3,
       "brand": "Clayton Homes",
       "price": 50000,
-      "bd": 3,
-      "ba": 2,
+      "name": "Clayton Northstar",
       "sqft": 1140,
-      "size": "16x76",
       "published": true,
       "desc": "Affordable comfort in a 16x76 layout — ideal for first-time buyers and landowners.",
-      "long": "Clayton Homes Northstar: 3 bed, 2 bath, 1,140 sq. ft. manufactured home with a 16x76 layout.",
+      "amenities": [
+        "Single-section 16x76 layout",
+        "Affordable first-home or landowner option",
+        "3 bedrooms, 2 bathrooms",
+        "Delivery and setup support available"
+      ],
+      "title": "Clayton Homes Northstar 3 Bed 2 Bath Manufactured Home",
       "images": [
         {
           "src": "https://images.pexels.com/photos/5785100/pexels-photo-5785100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -183,25 +187,26 @@
           "caption": "Kitchen"
         }
       ],
-      "amenities": [
-        "Single-section 16x76 layout",
-        "Affordable first-home or landowner option",
-        "3 bedrooms, 2 bathrooms",
-        "Delivery and setup support available"
-      ]
+      "long": "Clayton Homes Northstar: 3 bed, 2 bath, 1,140 sq. ft. manufactured home with a 16x76 layout.",
+      "ba": 2
     },
     {
-      "title": "Clayton Homes Wilder 3 Bed 2 Bath Manufactured Home",
-      "name": "Clayton Wilder",
+      "size": "28x52",
+      "bd": 3,
       "brand": "Clayton Homes",
       "price": 95000,
-      "bd": 3,
-      "ba": 2,
+      "name": "Clayton Wilder",
       "sqft": 1369,
-      "size": "28x52",
       "published": true,
       "desc": "Family-friendly 28x52 double-section with open living and dining space.",
-      "long": "Clayton Homes Wilder: 3 bed, 2 bath, 1,369 sq. ft. manufactured home with a 28x52 layout.",
+      "amenities": [
+        "Double-section 28x52 layout",
+        "Open living and dining space",
+        "Family-friendly floor plan",
+        "3 bedrooms, 2 bathrooms",
+        "Delivery and setup support available"
+      ],
+      "title": "Clayton Homes Wilder 3 Bed 2 Bath Manufactured Home",
       "images": [
         {
           "src": "https://images.pexels.com/photos/29239244/pexels-photo-29239244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -220,106 +225,72 @@
           "caption": "Living room"
         }
       ],
-      "amenities": [
-        "Double-section 28x52 layout",
-        "Open living and dining space",
-        "Family-friendly floor plan",
-        "3 bedrooms, 2 bathrooms",
-        "Delivery and setup support available"
-      ]
+      "long": "Clayton Homes Wilder: 3 bed, 2 bath, 1,369 sq. ft. manufactured home with a 28x52 layout.",
+      "ba": 2
     },
     {
-      "title": "The Tiger Cat 4 Bed 2 Bath Manufactured Home by Kabco",
-      "name": "The Tiger Cat",
+      "size": "32x60",
+      "bd": 4,
       "brand": "Kabco",
       "price": 109900,
-      "bd": 4,
-      "ba": 2,
+      "name": "The Tiger Cat",
       "sqft": 1820,
-      "size": "32x60",
       "published": true,
       "desc": "Premium Kabco build with finished drywall, 2x6 exterior walls and dual fireplaces.",
-      "long": "Premium Kabco build with finished drywall, 2x6 exterior walls and dual fireplaces.",
-      "images": [
-        {
-          "src": "https://images.pexels.com/photos/7173661/pexels-photo-7173661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "caption": "Kitchen"
-        },
-        {
-          "src": "https://images.pexels.com/photos/7166640/pexels-photo-7166640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "caption": "Living room"
-        },
-        {
-          "src": "https://images.pexels.com/photos/6782479/pexels-photo-6782479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "caption": "Bedroom"
-        },
-        {
-          "src": "https://images.pexels.com/photos/6480198/pexels-photo-6480198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "caption": "Bedroom suite"
-        }
-      ],
       "amenities": [
         "Finished drywall",
         "2x6 exterior walls",
         "Dual fireplaces",
         "4 bedrooms, 2 bathrooms",
         "Delivery and setup support available"
-      ]
-    },
-    {
-      "title": "The Leo 3 Bedroom 2 Bathroom Manufactured Home 28x56",
-      "name": "The Leo",
-      "brand": "TRU",
-      "price": 84900,
-      "bd": 3,
-      "ba": 2,
-      "sqft": 1456,
-      "size": "28x56",
-      "published": true,
-      "desc": "Balanced TRU floor plan with large living room and black appliance package.",
-      "long": "Balanced TRU floor plan with large living room and black appliance package.",
+      ],
+      "title": "The Tiger Cat 4 Bed 2 Bath Manufactured Home by Kabco",
       "images": [
         {
-          "src": "https://images.pexels.com/photos/8146322/pexels-photo-8146322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "src": "https://images.pexels.com/photos/7173661/pexels-photo-7173661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
           "caption": "Kitchen"
+        },
+        {
+          "src": "https://images.pexels.com/photos/7166640/pexels-photo-7166640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "caption": "Living room"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6782479/pexels-photo-6782479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "caption": "Bedroom"
         },
         {
           "src": "https://images.pexels.com/photos/6480198/pexels-photo-6480198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
           "caption": "Bedroom suite"
-        },
-        {
-          "src": "https://images.pexels.com/photos/6523300/pexels-photo-6523300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "caption": "Kitchen"
-        },
-        {
-          "src": "https://images.pexels.com/photos/7173661/pexels-photo-7173661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "caption": "Kitchen"
         }
       ],
+      "long": "Premium Kabco build with finished drywall, 2x6 exterior walls and dual fireplaces.",
+      "ba": 2
+    },
+    {
+      "size": "28x56",
+      "bd": 3,
+      "brand": "TRU",
+      "price": 84900,
+      "name": "The Leo",
+      "sqft": 1456,
+      "published": true,
+      "desc": "Balanced TRU floor plan with large living room and black appliance package.",
       "amenities": [
         "Large living room",
         "Black appliance package",
         "Balanced TRU floor plan",
         "3 bedrooms, 2 bathrooms",
         "Delivery and setup support available"
-      ]
-    },
-    {
-      "title": "The Sycamore 4 Bedroom 2 Bathroom with Den 28x68",
-      "name": "The Sycamore",
-      "brand": "TRU",
-      "price": 112000,
-      "bd": 4,
-      "ba": 2,
-      "sqft": 1791,
-      "size": "28x68",
-      "published": true,
-      "desc": "TRU favorite with den, approx. 1,791 sq. ft. and OSB exterior wrap.",
-      "long": "TRU favorite with den, approx. 1,791 sq. ft. and OSB exterior wrap.",
+      ],
+      "title": "The Leo 3 Bedroom 2 Bathroom Manufactured Home 28x56",
       "images": [
         {
-          "src": "https://images.pexels.com/photos/7166640/pexels-photo-7166640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "caption": "Living room"
+          "src": "https://images.pexels.com/photos/8146322/pexels-photo-8146322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "caption": "Kitchen"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6480198/pexels-photo-6480198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "caption": "Bedroom suite"
         },
         {
           "src": "https://images.pexels.com/photos/6523300/pexels-photo-6523300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -328,32 +299,66 @@
         {
           "src": "https://images.pexels.com/photos/7173661/pexels-photo-7173661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
           "caption": "Kitchen"
-        },
-        {
-          "src": "https://images.pexels.com/photos/8146322/pexels-photo-8146322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "caption": "Kitchen"
         }
       ],
+      "long": "Balanced TRU floor plan with large living room and black appliance package.",
+      "ba": 2
+    },
+    {
+      "size": "28x68",
+      "bd": 4,
+      "brand": "TRU",
+      "price": 112000,
+      "name": "The Sycamore",
+      "sqft": 1791,
+      "published": true,
+      "desc": "TRU favorite with den, approx. 1,791 sq. ft. and OSB exterior wrap.",
       "amenities": [
         "Den",
         "OSB exterior wrap",
         "Approx. 1,791 sq ft",
         "4 bedrooms, 2 bathrooms",
         "Delivery and setup support available"
-      ]
+      ],
+      "title": "The Sycamore 4 Bedroom 2 Bathroom with Den 28x68",
+      "images": [
+        {
+          "src": "https://images.pexels.com/photos/7166640/pexels-photo-7166640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "caption": "Living room"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6523300/pexels-photo-6523300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "caption": "Kitchen"
+        },
+        {
+          "src": "https://images.pexels.com/photos/7173661/pexels-photo-7173661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "caption": "Kitchen"
+        },
+        {
+          "src": "https://images.pexels.com/photos/8146322/pexels-photo-8146322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "caption": "Kitchen"
+        }
+      ],
+      "long": "TRU favorite with den, approx. 1,791 sq. ft. and OSB exterior wrap.",
+      "ba": 2
     },
     {
-      "title": "The Sparta 2025 Repo 4 Bedroom 2 Bathroom 28x56",
-      "name": "The Sparta (2025 repo)",
+      "size": "28x56",
+      "bd": 4,
       "brand": "Kabco",
       "price": 89900,
-      "bd": 4,
-      "ba": 2,
+      "name": "The Sparta (2025 repo)",
       "sqft": 1568,
-      "size": "28x56",
       "published": true,
       "desc": "Like-new 2025 repo at a display-sale price — 4 beds, 2 baths, ready to move.",
-      "long": "Like-new 2025 repo at a display-sale price — 4 beds, 2 baths, ready to move.",
+      "amenities": [
+        "2025 model, like new",
+        "Display-sale price",
+        "Ready to move",
+        "4 bedrooms, 2 bathrooms",
+        "Delivery and setup support available"
+      ],
+      "title": "The Sparta 2025 Repo 4 Bedroom 2 Bathroom 28x56",
       "images": [
         {
           "src": "https://images.pexels.com/photos/6523300/pexels-photo-6523300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -372,26 +377,26 @@
           "caption": "Living room"
         }
       ],
-      "amenities": [
-        "2025 model, like new",
-        "Display-sale price",
-        "Ready to move",
-        "4 bedrooms, 2 bathrooms",
-        "Delivery and setup support available"
-      ]
+      "long": "Like-new 2025 repo at a display-sale price — 4 beds, 2 baths, ready to move.",
+      "ba": 2
     },
     {
-      "title": "The Crestwood 3 Bedroom 2 Bathroom 32x60",
-      "name": "The Crestwood",
+      "size": "32x60",
+      "bd": 3,
       "brand": "Giles",
       "price": 92500,
-      "bd": 3,
-      "ba": 2,
+      "name": "The Crestwood",
       "sqft": 1860,
-      "size": "32x60",
       "published": true,
       "desc": "Wide Giles double-section with comfortable bedrooms and modern bath suite.",
-      "long": "Wide Giles double-section with comfortable bedrooms and modern bath suite.",
+      "amenities": [
+        "Wide double-section",
+        "Comfortable bedrooms",
+        "Modern bath suite",
+        "3 bedrooms, 2 bathrooms",
+        "Delivery and setup support available"
+      ],
+      "title": "The Crestwood 3 Bedroom 2 Bathroom 32x60",
       "images": [
         {
           "src": "https://images.pexels.com/photos/6782479/pexels-photo-6782479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -410,26 +415,25 @@
           "caption": "Bedroom suite"
         }
       ],
-      "amenities": [
-        "Wide double-section",
-        "Comfortable bedrooms",
-        "Modern bath suite",
-        "3 bedrooms, 2 bathrooms",
-        "Delivery and setup support available"
-      ]
+      "long": "Wide Giles double-section with comfortable bedrooms and modern bath suite.",
+      "ba": 2
     },
     {
-      "title": "The Everett 4 Bedroom 3 Bathroom 32x68",
-      "name": "The Everett",
+      "size": "32x68",
+      "bd": 4,
       "brand": "TRU",
       "price": 124000,
-      "bd": 4,
-      "ba": 3,
+      "name": "The Everett",
       "sqft": 2176,
-      "size": "32x68",
       "published": true,
       "desc": "Room to grow: 4 beds, 3 baths and generous family living in a 32x68 layout.",
-      "long": "Room to grow: 4 beds, 3 baths and generous family living in a 32x68 layout.",
+      "amenities": [
+        "4 bedrooms, 3 bathrooms",
+        "Generous family living",
+        "32x68 layout",
+        "Delivery and setup support available"
+      ],
+      "title": "The Everett 4 Bedroom 3 Bathroom 32x68",
       "images": [
         {
           "src": "https://images.pexels.com/photos/6480198/pexels-photo-6480198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -448,12 +452,8 @@
           "caption": "Kitchen"
         }
       ],
-      "amenities": [
-        "4 bedrooms, 3 bathrooms",
-        "Generous family living",
-        "32x68 layout",
-        "Delivery and setup support available"
-      ]
+      "long": "Room to grow: 4 beds, 3 baths and generous family living in a 32x68 layout.",
+      "ba": 3
     }
   ]
 }

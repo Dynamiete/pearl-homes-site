@@ -6,8 +6,8 @@ backend:
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
-site_url: https://YOUR-SITE.netlify.app
-display_url: https://YOUR-SITE.netlify.app
+site_url: https://pearl-homes-site.netlify.app
+display_url: https://pearl-homes-site.netlify.app
 
 collections:
   - name: listings

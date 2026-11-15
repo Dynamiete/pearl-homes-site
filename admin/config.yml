@@ -48,3 +48,18 @@ collections:
                 widget: list
                 label_singular: Amenity
                 field: { label: Amenity, name: amenity, widget: string }
+      - name: reviews
+        label: Customer reviews
+        file: content/reviews.json
+        fields:
+          - label: Reviews
+            name: reviews
+            widget: list
+            label_singular: Review
+            summary: "{{fields.name}} ({{fields.rating}} stars)"
+            fields:
+              - { label: "Customer name", name: name, widget: string, hint: "Use the name as the customer allows, e.g. Marcus T." }
+              - { label: "Location", name: location, widget: string, required: false, hint: "e.g. Jackson, MS" }
+              - { label: "Stars (1 to 5)", name: rating, widget: number, value_type: int, min: 1, max: 5, default: 5 }
+              - { label: "Review text", name: text, widget: text }
+              - { label: "Sample review", name: sample, widget: boolean, default: false, hint: "Leave OFF for real customer reviews. ON shows a 'Sample review' label." }

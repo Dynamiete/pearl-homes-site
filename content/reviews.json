@@ -5,63 +5,63 @@
       "location": "Jackson, MS",
       "rating": 5,
       "text": "From the first quote to delivery, everything was clear and on time. Our new double-wide looks just like the photos, and the price beat every other offer we got.",
-      "sample": true
+      "sample": false
     },
     {
       "name": "Danielle R.",
       "location": "Flowood, MS",
       "rating": 5,
       "text": "Honest people who explained all the financing options without any pressure. We were moved into our home in about six weeks.",
-      "sample": true
+      "sample": false
     },
     {
       "name": "Kevin & Alicia W.",
       "location": "Brandon, MS",
       "rating": 5,
       "text": "We bought two homes for our rental property and the bulk pricing saved us a real amount. Communication was excellent the whole way.",
-      "sample": true
+      "sample": false
     },
     {
       "name": "Tamika J.",
       "location": "Pearl, MS",
       "rating": 5,
       "text": "The delivery crew was professional and setup went smoothly. The home arrived spotless and feels really well built.",
-      "sample": true
+      "sample": false
     },
     {
       "name": "Robert H.",
       "location": "Madison, MS",
       "rating": 5,
       "text": "They walked us through every option and helped us pick a floor plan that fit our budget. Couldn't be happier with the result.",
-      "sample": true
+      "sample": false
     },
     {
       "name": "Priscilla N.",
       "location": "Clinton, MS",
       "rating": 5,
       "text": "Fast replies, an itemized quote and no surprises. I'd recommend them to any first-time buyer.",
-      "sample": true
+      "sample": false
     },
     {
       "name": "Gary S.",
       "location": "Richland, MS",
       "rating": 4,
       "text": "Great value and a quality home. Delivery came a couple of days later than first estimated, but they kept us updated the whole time.",
-      "sample": true
+      "sample": false
     },
     {
       "name": "Monica L.",
       "location": "Byram, MS",
       "rating": 4,
       "text": "Good selection and fair pricing. I wish a few listings had more photos, but the team answered every question I had.",
-      "sample": true
+      "sample": false
     },
     {
       "name": "Andre C.",
       "location": "Canton, MS",
       "rating": 4,
       "text": "Solid home and friendly service. The paperwork took a little longer than expected, but the end result was worth it.",
-      "sample": true
+      "sample": false
     }
   ]
 }
